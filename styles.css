@@ -1,0 +1,23 @@
+* {
+    font-family: "Times New Roman", "Courier New", Tahoma;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    background-color:purple;
+    color:palegoldenrod;
+    font-size: 50px;
+    font-weight: 800;
+}
+button {
+    font-size: 25px;
+    background-color: greenyellow;
+}
+li a{
+    font-size: 30px;
+    color: green;
+}
